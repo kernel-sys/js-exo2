@@ -1,0 +1,14 @@
+* {
+  font-family: Arial, sans-serif;
+}
+
+ .image-container {
+    position: relative;
+    display: inline-block;
+  }
+
+  .image {
+    width: 1000px; /* Largeur de l'image */
+    height: 700px; /* Hauteur de l'image */
+    transition: opacity 0.3s; /* Animation de transition */
+  }

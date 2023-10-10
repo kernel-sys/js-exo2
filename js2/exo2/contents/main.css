@@ -1,0 +1,25 @@
+* {
+    font-family: Arial, sans-serif;
+}
+
+.but {
+    border-radius: 5px;
+    border-color: red;
+    color: white;
+    background-color: black;
+
+    width: 220px;
+    height: 30px;
+}
+
+.inp {
+    width: 168px;
+}
+
+.inpu {
+    width: 162px ;
+}
+
+input {
+    align-items: center;
+}

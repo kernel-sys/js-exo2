@@ -1,0 +1,21 @@
+* {
+    font-family: Arial, sans-serif;
+}
+
+.image-container {
+    position: relative;
+    display: inline-block;
+    margin: 10px;
+}
+
+.image {
+    width: 200px;
+    height: 150px;
+    transition: border 0.3s;
+    border-radius: 5px;
+}
+
+.bordered {
+    border: 3px solid red;
+    border-radius: 5px;
+}
